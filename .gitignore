@@ -1,0 +1,10 @@
+.bundle/
+log/*.log
+pkg/
+testapp/db/*.sqlite3
+testapp/db/*.sqlite3-journal
+testapp/log/*.log
+testapp/tmp/
+testapp/.sass-cache
+*.gem
+Gemfile.lock
