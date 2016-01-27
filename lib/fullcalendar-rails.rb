@@ -1,5 +1,5 @@
-require 'fullcalendar/engine'
-require 'fullcalendar/version'
+require 'fullcalendar/rails/engine'
+require 'fullcalendar/rails/version'
 
 module Fullcalendar
   module Rails

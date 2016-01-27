@@ -1,5 +1,5 @@
 module Fullcalendar
-  class Rails
+  module Rails
     class Engine < ::Rails::Engine
     end
   end
