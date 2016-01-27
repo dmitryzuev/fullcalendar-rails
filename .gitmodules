@@ -1,0 +1,3 @@
+[submodule "fullcalendar"]
+	path = fullcalendar
+	url = git@github.com:fullcalendar/fullcalendar.git
